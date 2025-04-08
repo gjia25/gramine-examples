@@ -50,7 +50,7 @@ sgx.trusted_files = [
 {% endfor %}
 
   "file:pytorchexample.py",
-
+  "file:test-torch.py",
   "file:classes.txt",
   "file:input.jpg",
   "file:alexnet-pretrained.pt",  # Pre-trained model saved as a file
